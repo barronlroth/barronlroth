@@ -11,6 +11,10 @@ Building AI products, agent tooling, and the occasional side project that probab
 - 💰 [monarch-money-cli](https://github.com/barronlroth/monarch-money-cli)
 - 🏎️ f1-cli
 - 💸 splitwise
+- 🦉 Alfred Hub
+- 📦 Cubby
+- 🛠️ Skills
+- 💬 groupchatwrapped2025
 
 ## Elsewhere
 - X/Twitter: [@barronlroth](https://x.com/barronlroth)
