@@ -14,6 +14,7 @@ Building AI products, agent tooling, and the occasional side project that probab
 - 🦉 [alfred-hub](https://github.com/barronlroth/alfred-hub) — Home for my OpenClaw, Alfred.
 - 📦 [Cubby](https://github.com/barronlroth/Cubby) — Home inventory app in SwiftUI.
 - 🛠️ [Skills](https://github.com/barronlroth/Skills) — My favorite agent skills, both custom and public.
+- 🍽️ [maitred.club](https://github.com/barronlroth/maitred-fun) — Blind dinner dates, with better taste than most humans.
 - 💬 [groupChatWrapped2025](https://github.com/barronlroth/groupChatWrapped2025) — A wrapped-style recap for a group chat.
 
 ## Elsewhere
