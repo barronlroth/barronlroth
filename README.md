@@ -13,7 +13,7 @@ Building AI products, agent tooling, and the occasional side project that probab
 - 💸 [splitwise-cli](https://github.com/barronlroth/splitwise-cli) — Fast CLI for Splitwise groups, expenses, balances, and settlements.
 - 🦉 [alfred-hub](https://github.com/barronlroth/alfred-hub) — Home for my OpenClaw, Alfred.
 - 📦 [Cubby](https://github.com/barronlroth/Cubby) — Home inventory app in SwiftUI.
-- 🛠️ [Skills](https://github.com/barronlroth/Skills) — Reusable agent skills for OpenClaw and coding workflows.
+- 🛠️ [Skills](https://github.com/barronlroth/Skills) — My favorite agent skills, both custom and public.
 - 💬 [groupChatWrapped2025](https://github.com/barronlroth/groupChatWrapped2025) — A wrapped-style recap for a group chat.
 
 ## Elsewhere
