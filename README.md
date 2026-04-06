@@ -8,8 +8,9 @@ Building AI products, agent tooling, and the occasional side project that probab
 - Shipping side projects in public when time allows
 
 ## Projects
-- [monarch-money-cli](https://github.com/barronlroth/monarch-money-cli)
-- More soon
+- 💰 [monarch-money-cli](https://github.com/barronlroth/monarch-money-cli)
+- 🏎️ f1-cli
+- 💸 splitwise
 
 ## Elsewhere
 - X/Twitter: [@barronlroth](https://x.com/barronlroth)
