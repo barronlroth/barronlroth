@@ -18,4 +18,4 @@ Building AI products, agent tooling, and the occasional side project that probab
 - 💬 [groupChatWrapped2025](https://github.com/barronlroth/groupChatWrapped2025) — A wrapped-style recap for a group chat.
 
 ## Elsewhere
-- X/Twitter: [@barronlroth](https://x.com/iambarronroth)
+- X/Twitter: [@iamBarronRoth](https://x.com/iamBarronRoth)
