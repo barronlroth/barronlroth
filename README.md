@@ -10,9 +10,9 @@ Building AI products, agent tooling, and small useful apps that automate the ann
 
 ## Recent builds
 
+- 📦 [Cubby](https://github.com/barronlroth/Cubby) — SwiftUI home inventory logger for remembering what lives where.
 - 🌙 [SleepTimerBar](https://github.com/barronlroth/SleepTimerBar) — macOS menu bar sleep timer that fades brightness and volume, then puts the Mac to sleep.
 - 🏡 [StaySplit](https://github.com/barronlroth/StaySplit) — Chrome extension that adds per-group-per-night pricing to Airbnb listings.
-- 📦 [Cubby](https://github.com/barronlroth/Cubby) — SwiftUI home inventory logger for remembering what lives where.
 - 💸 [splitwise-cli](https://github.com/barronlroth/splitwise-cli) — Fast CLI for Splitwise groups, expenses, balances, and settlements.
 - 🛠️ [Skills](https://github.com/barronlroth/Skills) — A collection of agent skills, workflows, and reusable operating procedures.
 
