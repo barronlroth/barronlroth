@@ -4,7 +4,7 @@ Building AI products, agent tooling, and small useful apps that automate the ann
 
 ## Right now
 
-- Senior Product Manager at Google, working on Gemini agents for enterprise.
+- Senior Product Manager at Google, working on new Gemini agent products.
 - Building Alfred as a personal AI ops layer: memory, skills, cron jobs, messaging, and agent workflows.
 - Shipping small macOS, iOS, CLI, and browser-extension side projects when the idea is too useful to leave as a note.
 
