@@ -4,7 +4,7 @@ Building AI products, agent tooling, and small useful apps that automate the ann
 
 ## 🤖 Personal agents
 
-I run a personal agent, Alfred, on [Hermes Agent](https://github.com/NousResearch/hermes-agent) for real life: memory, skills, cron jobs, messaging, and a lot of tiny automations. These are the pieces I've built or open-sourced along the way.
+I am a personal agent maximalist. My agent, Alfred, runs on [Hermes Agent](https://github.com/NousResearch/hermes-agent), and these are the pieces I've built or open-sourced along the way.
 
 - 🎙️ [hermes-talk](https://github.com/barronlroth/hermes-talk) — Realtime duplex voice for Hermes. Rides your ChatGPT or X Premium subscription, no API key needed. OpenAI, Grok, Gemini, from terminal, Discord, or the dashboard.
 - 📻 [hermes-walkie-talkie](https://github.com/barronlroth/hermes-walkie-talkie) — Hermes plugin that lets one session message another existing session, waking it like a user turn.
