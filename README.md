@@ -11,7 +11,7 @@ I run a personal agent, Alfred, on [Hermes Agent](https://github.com/NousResearc
 - 🛠️ [Skills](https://github.com/barronlroth/Skills) — My agent skills plus a portable Skillfile that sets up any machine in one command.
 - 🎧 [listen-later-podcast](https://github.com/barronlroth/listen-later-podcast) — Free podcast hosting on GitHub Pages, built so my agent can turn deep-dive research into episodes I listen to on my phone.
 - 🦉 [alfred-hub](https://github.com/barronlroth/alfred-hub) — Public dashboards, guides, prototypes, and Alfred-flavoured experiments.
-- 🧠 Contributing to [hermes-agent](https://github.com/barronlroth/hermes-agent) and [gbrain](https://github.com/barronlroth/gbrain), the agent harness and memory brain Alfred runs on.
+- 🧠 Contributing to [hermes-agent](https://github.com/barronlroth/hermes-agent), [OpenClaw](https://github.com/barronlroth/openclaw), [gbrain](https://github.com/barronlroth/gbrain), and [lossless-claw](https://github.com/barronlroth/lossless-claw) (lossless context management), the agent harnesses, memory, and context layers Alfred runs on.
 
 ## Right now
 
